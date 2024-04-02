@@ -1,13 +1,5 @@
 #include <Arduino.h>
 
-// //I2C library (For SDA and SCL)
-// #include <Wire.h>
-// //LCD display library
-// #include <LiquidCrystal_I2C.h>
-
-// //initialize lcd instances
-// LiquidCrystal_I2C lcd(0x27,16,2);
-
 //input pin
 
 //upper part
